@@ -1,2 +1,2 @@
 0.0.9
-https://github.com/madcomputers/supportcenter
+https://github.com/madcomputers/supportcenter/
