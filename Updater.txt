@@ -1,2 +1,2 @@
-0.0.9
-https://github.com/madcomputers/supportcenter/
+0.0.0.9
+https://github.com/madcomputers/supportcenter/blob/master/Support%20Center.exe
